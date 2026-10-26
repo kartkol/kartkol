@@ -1,6 +1,6 @@
 # 👨‍💻 KARTKOL
 
-## Data Scientist | Machine Learning Expert | Full-Stack Developer
+## Ingeniero en Inteligencia Artificial | Data Scientist | Machine Learning Expert | Full-Stack Developer
 
 Bienvenido a mi perfil de GitHub. Soy **KARTKOL**, un profesional altamente especializado en **Data Science**, **Machine Learning** y **Desarrollo Web Full-Stack**. Mi formación y experiencia abarcan desde la creación de modelos avanzados basados en redes neuronales hasta la implementación de soluciones web modernas y escalables.
 
@@ -40,8 +40,6 @@ Bienvenido a mi perfil de GitHub. Soy **KARTKOL**, un profesional altamente espe
 ---
 
 ## 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alberto-oter/) 
 
 - 📧 Email: kartkol@gmail.com
 
